@@ -1,0 +1,9 @@
+make -f "/home/sam/school/cs494/jgraph/Makefile" --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/sam/school/cs494/jgraph'
+make: Leaving directory '/home/sam/school/cs494/jgraph'
+ 
+make: /home/sam/school/cs494/jgraph/Makefile: No such file or directory
+make: *** No rule to make target '/home/sam/school/cs494/jgraph/Makefile'.
+make: Failed to remake makefile '/home/sam/school/cs494/jgraph/Makefile'.
+make: *** No targets specified and no makefile found.  Stop.
+ 

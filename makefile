@@ -1,2 +1,2 @@
 clean:
-	rm *.pdf *.ps
+	rm *.pdf *.ps *.json
