@@ -17,6 +17,7 @@ for example:
 `python main.py 2019-06-12 "Ryan O'Reilly"`
 
 Here is a quick list of some functionality I would have liked to have added if I had more time
+
 functionality to add:
 - Making the playing space look more like a real hockey rink
 - Game ranges rather than just one game. Players generally only have a few shots in a game so the graphs aren't as intersting as I thought they would be
