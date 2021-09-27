@@ -6,7 +6,7 @@ I'm a big hockey fan (Go Blues!) so I figured I would try to work with the NHL A
 
 I've chosen to write this in Python because of my familiarity with it and easy access to a web requests api, and simple packages to parse the JSON that is returned by the NHL API.
 
-## Before running, add the jgraph executable to the root directory
+### Before running, add the jgraph executable to the root directory
 
 Written in python 3.8.10 but should work for any python 3 version. The only external library I require is requests. Use pip to install it like so:
 
