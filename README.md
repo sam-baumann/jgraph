@@ -2,7 +2,7 @@
 ### This project is meant to help visualize NHL shot selection for an individual player in an individual game
 ### Written for Dr. James Plank's Advanced Programming and Algorithms class fall 2021
 
-I'm a big hockey fan (Go Blues!) so I figured I would make .
+I'm a big hockey fan (Go Blues!) so I figured I would make a little shot visualization tool for the jgraph assignment.
 
 I've chosen to write this in Python because of my familiarity with it and easy access to a web requests api, and simple packages to parse the JSON that is returned by the NHL API.
 
