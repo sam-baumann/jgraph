@@ -1,6 +1,5 @@
 import requests
 import sys
-import json
 
 # just prepends the common url to a string
 def url(short_url, api_included = True):
