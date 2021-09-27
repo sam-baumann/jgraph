@@ -63,6 +63,8 @@ print("xaxis min 0 max 100")
 print("size 5")
 print("yaxis min -43 max 43")
 print("size 4.25")
+# goal outline
+print("newline pts 89 3 92.3 3 92.3 -3 89 -3")
 # Draw the center red line
 print("newcurve pts 0 -43 0 43")
 print("color 1 0 0")
@@ -87,9 +89,6 @@ print("newline bezier pts 72 -43 86 -43 100 -28.75 100 -14.5")
 print("linethickness 5")
 print("newline bezier pts 72 43 86 43 100 28.75 100 14.5")
 print("linethickness 5")
-
-# goal outline
-print("newline pts 89 3 92.3 3 92.3 -3 89 -3")
 
 if len(shots) > 0:
     print("newcurve pts")
