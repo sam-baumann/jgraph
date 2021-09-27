@@ -20,7 +20,7 @@ for example:
 
 `python main.py 2019-06-12 "Ryan O'Reilly"`
 
-Depending on your python config, you might have to use `python3` in place of `python` in these commands. Whatever actually runs python 3 on your system.
+Depending on your python config, you might have to use `python3` in place of `python` in these commands. Whatever actually runs python 3 on your system. The makefile assumes it's python3 so you have to edit that if that's not the case.
 
 By default, the makefile will generate a few example files and dump them into the makefile-examples folder.
 
