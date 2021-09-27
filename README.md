@@ -58,6 +58,7 @@ Here is a quick list of some functionality I would have liked to have added if I
 - Making the playing space look more like a real hockey rink
 - Game ranges rather than just one game. Players generally only have a few shots in a game so the graphs aren't as intersting as I thought they would be
 - Shot density visualization, such as [here](http://www.stat.cmu.edu/cmsac/poster2020/posters/Kumagai-ClusteringNHLShot.pdf). Not sure if this is even possible with JGraph but seems like it could make for an interesting exercise.
+- Adding captions under the goals that say when they were scored and who assisted.
 
 known possible problems:
 - If more than one player who plays on a given day have the same name, there is no way to specify the correct one so it won't always work. As far as I know, there are no two active players who have the same name but it's possible.
