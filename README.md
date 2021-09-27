@@ -22,3 +22,8 @@ functionality to add:
 - Making the playing space look more like a real hockey rink
 - Game ranges rather than just one game. Players generally only have a few shots in a game so the graphs aren't as intersting as I thought they would be
 - Shot density visualization, such as [here](http://www.stat.cmu.edu/cmsac/poster2020/posters/Kumagai-ClusteringNHLShot.pdf). Not sure if this is even possible with JGraph but seems like it could make for an interesting exercise.
+
+todo as of sunday night sep 26:
+- double check geometry
+- get command line args working
+- make examples to run in the makefile
