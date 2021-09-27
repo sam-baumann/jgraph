@@ -16,6 +16,17 @@ for example:
 
 `python main.py 2019-06-12 "Ryan O'Reilly"`
 
+By default, the makefile will generate a few example files.
+You can also use the makefile to generate an output pdf like so:
+
+`make custom DATE=[yyyy-mm-dd] PLAYER="[player full name]"`
+
+for example:
+
+`make custom DATE=2019-06-12 PLAYER="Ryan O'Reilly"`
+
+The makefile requires ps2pdf to be installed, and needs a jgraph executable in the root folder
+
 Here is a quick list of some functionality I would have liked to have added if I had more time
 
 functionality to add:
@@ -24,6 +35,5 @@ functionality to add:
 - Shot density visualization, such as [here](http://www.stat.cmu.edu/cmsac/poster2020/posters/Kumagai-ClusteringNHLShot.pdf). Not sure if this is even possible with JGraph but seems like it could make for an interesting exercise.
 
 todo as of sunday night sep 26:
-- double check geometry
-- get command line args working
 - make examples to run in the makefile
+- add pictures to readme
