@@ -63,3 +63,4 @@ Here is a quick list of some functionality I would have liked to have added if I
 known possible problems:
 - If more than one player who plays on a given day have the same name, there is no way to specify the correct one so it won't always work. As far as I know, there are no two active players who have the same name but it's possible.
 - I'm not sure how far back the shot data goes. If there are no coordinates in the data then there will be an error
+- If a shot came from the other end of the ice (from the defensive zone), it will be transformed to the offensive zone as if the shot had come from there. This is pretty rare, even rarer to score from that range. Most likely could mess up some empty net goals though.
